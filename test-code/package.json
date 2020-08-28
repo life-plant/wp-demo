@@ -1,0 +1,16 @@
+{
+  "name": "test-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.12",
+    "vue-property-decorator": "^9.0.0"
+  }
+}
